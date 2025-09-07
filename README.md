@@ -28,7 +28,6 @@
 
 ## 📂 Projetos
 - [TubeSummary](https://github.com/psicoiner/TubeSummary) → Projeto com integração de IA para resumo de vídeos  
-- [javascript-studies](https://github.com/psicoiner/javascript-studies) → Repositório para organizar meus estudos de JavaScript e frameworks
 
 ---
 
